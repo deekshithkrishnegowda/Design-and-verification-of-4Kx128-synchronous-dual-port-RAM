@@ -1,0 +1,3 @@
+The basic idea behind this mini project is how 1K x 64 RAM can be cascaded to get 4K x 128 RAM along with chip select logic. Verification was carried out in SystemVerilog based environment with drivers, monitors, generator, scoreboard and reference model. Ran different testcases in regression mode and obtained combined functional coverage report. 
+
+The code was written in Verilog and simulations were carried out in Xilinx ISE. Verification was done using Aldec Riveria Pro.
